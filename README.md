@@ -3,7 +3,7 @@
 ## API developed with Rocketseat at the event NLW (next level week)!
 
 
-### It's an API for another event, Do While, which will take place in December. It's a live messaging app for the event's live videos
+### It's an API for another event, Do While, which will take place in December. It's a live messaging app for the event's live videos.
 
 
 In this API, we used:
