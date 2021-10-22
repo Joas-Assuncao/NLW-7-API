@@ -19,5 +19,5 @@ In this API, we used:
 
 #### References: 
 
-[Rocketseat](https://www.linkedin.com/school/rocketseat)
-[Teacher Daniele Leão](https://www.linkedin.com/in/danieleleaoevangelista)
+* [Rocketseat](https://www.linkedin.com/school/rocketseat)
+* [Teacher Daniele Leão](https://www.linkedin.com/in/danieleleaoevangelista)
